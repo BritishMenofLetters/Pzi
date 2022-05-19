@@ -1,0 +1,5 @@
+Aplikacija u QT okruženju
+Koristiti karte (znači i lokaciju) 
+Sprema prijeđeni put zajedno sa nagibom pojedinog dijela puta i vremenom
+Daje najbolji put između dvi točke
+Daje mogućnost spremanja novog "najboljeg" puta
